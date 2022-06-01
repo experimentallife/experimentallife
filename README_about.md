@@ -9,8 +9,8 @@
 
 <table align="center">
  <tr>
-    <td><u><a href="README.md">Home</a></u></td>
-    <td><a href="README_about.md">About</a></td>
+    <td><a href="README.md">Home</a></td>
+    <td><u><a href="README_about.md">About</a></u></td>
     <td><a href="README_portfolio.md">Portfolio</a></td>
     <td><a href="README_news.md">News</a></td>
     <td><a href="README_contact.md">Contact</a></td>
