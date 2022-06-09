@@ -30,9 +30,13 @@
     "slick-carousel": "^1.8.1",
     "styled-components": "^5.0.1"
   },
+  "devDependencies": {
+    "husky": "^8.0.1"
+  },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build"
+    "build": "react-scripts build",
+    "prepare": "husky install"
   },
   "eslintConfig": {
     "extends": "react-app"
