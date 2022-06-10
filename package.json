@@ -31,11 +31,13 @@
     "styled-components": "^5.0.1"
   },
   "devDependencies": {
-    "husky": "^8.0.1"
+    "husky": "^8.0.1",
+    "serve": "^13.0.2"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "deploy": "serve -s build",
     "prepare": "husky install"
   },
   "eslintConfig": {
