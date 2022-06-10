@@ -1,4 +1,3 @@
 #!/bin/bash
 
-hostname=server
-docker run -d -p 3000:8080 --name experimentallife-"$hostname" experimentallife/experimentallife:"$hostname"
+docker run -d -p 3000:8080 experimentallife/experimentallife:latest

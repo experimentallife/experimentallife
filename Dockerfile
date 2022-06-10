@@ -10,6 +10,8 @@ RUN rm -rf node_modules && yarn install --frozen-lockfile && yarn cache clean
 RUN yarn build
 RUN yarn global add server
 
+ENV PATH="$PATH:$(yarn global bin)"
+
 EXPOSE 3000
 
 CMD serve -s build;
