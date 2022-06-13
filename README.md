@@ -16,3 +16,36 @@
     <td><a href="README_contact.md">Contact</a></td>
  </tr> 
 </table>
+
+## 🔥 Streak stats
+
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/experimentallife/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="VXR's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ExperimentalLife&theme=monokai-metallian&hide_border=true"/>
+  </a>
+  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+</p>
+
+## 📊 Github stats
+
+<p align="center">
+<a href="https://github.com/experimentallife/github-readme-stats"><img alt="VXR's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ExperimentalLife&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+</p>
+
+<br>
+
+## 📊 Github Most Used Languages
+
+<p align="center">
+<a href="https://github.com/experimentallife/github-readme-stats"><img alt="VXR's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExperimentalLife&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+</p>
+
+<br>
+
+## 📊 Github Contribution Graph
+
+<p align="center">
+<a href="https://github.com/experimentallife/github-readme-activity-graph"><img alt="VXR's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=ExperimentalLife&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+</p>
